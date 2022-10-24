@@ -1,0 +1,3 @@
+# document-from-git
+
+TEST
